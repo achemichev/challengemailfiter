@@ -1,0 +1,1 @@
+for /F %%x in ('dir /B/D *.js') do (  node %%x )
